@@ -1,0 +1,18 @@
+.filters-btn{
+    padding: 8px 16px;
+    font-size: 16px;
+    margin-right: 24px;
+    border-radius: 25px;
+    border: 1px solid #6f6f6f;
+    background-color: #373737;
+    color: white;
+    cursor: pointer;
+
+}
+
+.filters-btn:focus{
+    background-color: white;
+    color:  black;
+
+    
+}
